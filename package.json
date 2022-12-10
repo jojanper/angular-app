@@ -75,7 +75,7 @@
     "codecov": "^3.6.5",
     "codelyzer": "^5.2.1",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "http-server": "latest",
     "jasmine-core": "^3.1.0",
     "jasmine-spec-reporter": "~4.2.1",
